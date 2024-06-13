@@ -1,6 +1,6 @@
 # Creating our own token
 
-This Solidity program is a program for creating our own token that demonstrates the basic syntax and functionality of the Solidity programming language. 
+This Solidity program is a program for creating our own token that defines a simple ERC-20-like token named "PRAGYAN" with the abbreviation "PRG." It includes functionalities for minting and burning tokens, along with storing and managing the balances of various addresses.
 
 ## Description
 
